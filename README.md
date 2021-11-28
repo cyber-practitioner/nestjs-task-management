@@ -31,6 +31,9 @@
 ```bash
 $ npm install
 ```
+## Software required
+<li>docker</li>
+<li>PgAdmin</li>
 
 ## Running the app
 
